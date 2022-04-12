@@ -19,7 +19,7 @@ head { display: block; }
   bottom: 0;
   left: 0;
   right: 0;
-  margin: auto; }
+  }
 
 .img1 {  
  width: 100px;
@@ -29,7 +29,7 @@ head { display: block; }
   bottom: 0;
   left: 0;
   right: 0;
-  margin: auto;
+  
 }
 .up1 { 
  width: 100px;
@@ -39,7 +39,6 @@ head { display: block; }
   bottom: 0;
   left: 0;
   right: 0;
-  margin: auto;
 }
 .down1 { 
  width: 100px;
@@ -49,11 +48,9 @@ head { display: block; }
   bottom: 0;
   left: 0;
   right: 0;
-  margin: auto;
 }
 .menu{
  position: absolute;
- margin: auto;
 }
 aside {
     width: 40%;
