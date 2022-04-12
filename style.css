@@ -3,3 +3,10 @@
 body {
     background-color: lightblue;
 }
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid gray;
+    padding: 25px;
+    margin: 25px;
+}
